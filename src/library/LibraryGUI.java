@@ -2,6 +2,7 @@ package library;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
@@ -18,7 +19,7 @@ public class LibraryGUI extends Application{
         primaryStage.setTitle("Library");
 
         // Input fields
-        TextField = titleInput = new TextField();
+        TextField titleInput = new TextField();
         titleInput.setPromptText("Book Title");
         TextField authorInput = new TextField();
         authorInput.setPromptText("Book Author");
