@@ -7,11 +7,11 @@ This project demonstrates strong understanding of **object-oriented programming*
 
 ## Features
 
-- ➕ Add new books with title and author  
-- 📖 View all added books in a readable format  
-- 🗑️ Clear the current book list  
-- 💾 Organized class structure with clear separation of logic and interface  
-- 🎨 Styled with custom CSS for a clean, modern look  
+-  Add new books with title and author  
+-  View all added books in a readable format  
+-  Clear the current book list  
+-  Organized class structure with clear separation of logic and interface  
+-  Styled with custom CSS for a clean, modern look  
 
 ---
 
@@ -37,8 +37,6 @@ This project demonstrates strong understanding of **object-oriented programming*
       --module-path "C:\path\to\javafx-sdk-17\lib" --add-modules javafx.controls,javafx.fxml
 5. Run LibraryGUI.java as the main class.
 
-![App Screenshot](C:\Users\msi modern\Pictures\Screenshots\Screenshot 2025-11-12 121920.png)
-
 ---
 
 ### Learning Highlights
@@ -50,6 +48,8 @@ Transitioned from console-based Java to JavaFX GUI development.
 Integrated CSS styling to improve user interface design.
 
 Applied version control with Git and GitHub for project management.
+
+---
 
 ## Future Improvements
 
