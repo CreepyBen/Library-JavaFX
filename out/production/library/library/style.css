@@ -1,0 +1,43 @@
+/* Background for the whole app */
+.root {
+    -fx-background-color: #2c3e50; /* dark gray-blue */
+    -fx-padding: 30;
+}
+
+/* Labels */
+.label-title, .label-author {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ecf0f1; /* light text */
+}
+
+/* Text fields */
+.text-field {
+    -fx-font-size: 14px;
+    -fx-padding: 5;
+    -fx-pref-width: 300;
+}
+
+/* Buttons */
+.button {
+    -fx-pref-width: 150;
+    -fx-pref-height: 35;
+    -fx-background-color: #3498db; /* blue */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #2980b9; /* darker blue on hover */
+}
+
+/* TextArea for displaying books */
+.text-area {
+    -fx-pref-width: 400;
+    -fx-pref-height: 250;
+    -fx-font-size: 14px;
+    -fx-padding: 10;
+    -fx-background-color: #ecf0f1;
+}
